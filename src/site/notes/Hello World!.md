@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"created":"","updated":""}
 ---
 
+![20230324_095817.jpg](/img/user/img/20230324_095817.jpg)
+
 Trying to get this website going, using [Obsidian](https://obsidian.md) as the editor, using the [Digitial Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin.
 
 The content is hosted on [github](https://github.com/JakeJasko/nebulous.space) and then deployed for free with [Vercel](https://vercel.app), pretty neat.
