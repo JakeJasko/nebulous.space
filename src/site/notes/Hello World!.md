@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello-world/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
 Trying to get this website going, using obsidian as the editor. Pretty neat.
