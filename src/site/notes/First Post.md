@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-post/"}
+{"dg-publish":true,"permalink":"/first-post/","created":"","updated":""}
 ---
 
 First post here. Curious about the visibility.
