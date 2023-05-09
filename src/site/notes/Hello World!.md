@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowFileTree":false,"created":"","updated":""}
 ---
 
-![20230324_095817.jpg](/img/user/img/20230324_095817.jpg)
+![IMG_4253.jpg](/img/user/img/IMG_4253.jpg)
 
-Trying to get this website going, using [Obsidian](https://obsidian.md) as the editor, using the [Digitial Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin.
+# Hello World
 
-The content is hosted on [github](https://github.com/JakeJasko/nebulous.space) and then deployed for free with [Vercel](https://vercel.app), pretty neat.
+Trying to get this website going, I'm using [Obsidian](https://obsidian.md) as the editor, with the [Digitial Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin.
+
+The content is hosted on [github](https://github.com/JakeJasko/nebulous.space) and deployed with [Vercel](https://vercel.app), pretty neat.
 
 Let's get a [[First Post\|First Post]] going with a link to see if that works.
