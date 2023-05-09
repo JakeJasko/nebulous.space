@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":false,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowFileTree":false,"created":"","updated":""}
 ---
 
 ![20230324_095817.jpg](/img/user/img/20230324_095817.jpg)
