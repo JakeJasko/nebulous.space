@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowFileTree":false,"dgShowToc":false,"created":"","updated":""}
 ---
 
-![IMG_4253.jpg|100%](/img/user/img/IMG_4253.jpg)
+![wallhaven-nedw2w.jpg](/img/user/img/wallhaven-nedw2w.jpg)
 
 # Hello World
 
