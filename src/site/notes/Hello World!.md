@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowFileTree":false,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/hello-world/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowFileTree":false,"dgShowToc":false,"created":"","updated":""}
 ---
 
-![IMG_4253.jpg](/img/user/img/IMG_4253.jpg)
+![IMG_4253.jpg|100%](/img/user/img/IMG_4253.jpg)
 
 # Hello World
 
